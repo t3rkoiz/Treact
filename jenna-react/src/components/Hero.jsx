@@ -3,6 +3,7 @@ import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { Link as ScrollLink } from 'react-scroll';
 import SocialBtns from './SocialBtns';
+import R3FOrb from "./R3FOrb";
 
 export default function Hero({ data, socialData }) {
   const { imgUrl, name, heading, typingText, description, btnText, btnUrl } =
@@ -71,7 +72,7 @@ export default function Hero({ data, socialData }) {
           </div>
           <div className="col-lg-6">
             <div className="hs-banner">
-              <img src={imgUrl} title alt="Admin" />
+                <R3FOrb />
             </div>
           </div>
         </div>
