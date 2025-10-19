@@ -4,7 +4,7 @@
     "name": "Toussaint Chen",
     "heading": "Welcome!",
     "typingText": ["I'm an Analyst", 1500, "I'm a Developer", 1500],
-    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "description": "I build sleek, high-performing websites and turn complex data into clear insights. My work bridges creativity and analytics which helps brands communicate better, perform smarter, and make data-driven decisions that matter.",
     "btnText": "Get in touch",
     "btnUrl": "contactus"
   },
@@ -51,7 +51,7 @@
     "imgSrc": "/images/about-banner.png",
     "miniTitle": "About Us",
     "title": "I AM AVAILABLE FOR <span>WEB AND DATA ANALYTICS</span> PROJECTS",
-    "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "description": "I specialize in helping organizations transform their online presence and decision-making through thoughtful design and data solutions. From responsive websites to interactive dashboards, I focus on crafting tools that are not only functional but meaningful, empowering clients to connect, measure, and grow with confidence.",
     "funfacts": [
       {
         "title": "Years Experience",
@@ -68,90 +68,56 @@
   "projects": {
     "sectionHeading": {
       "miniTitle": "My Work",
-      "title": "RECENT PROJECT"
+      "title": "RECENT PROJECTS"
     },
     "allProjects": [
       {
-        "thumbUrl": "/images/popup-project-1.jpg",
+        "thumbUrl": "/images/repair1.png",
+        "title": "Website",
+        "subTitle": "Web Design, Web Development",
+        "details": {
+          "title": "Website Development for The Repair Campaign",
+          "description": "The Repair Campaign website is a dynamic WordPress-powered platform developed to amplify Caribbean reparatory justice initiatives. It features responsive design, integrated analytics, and SEO-optimized content blocks to support education, advocacy, and community mobilization across the region.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "UK/Caribbean",
+          "url": "https://repaircampaign.org/"
+        }
+      },
+      {
+        "thumbUrl": "/images/ncb1.png",
+        "title": "Website",
+        "subTitle": "Web Development, Custom Calculator",
+        "details": {
+          "title": "Website Development for NCB Finiancial Group",
+          "description": "NCB Financial Group's Wealth Management page is a user-friendly online resource designed to help customers estimate their loan repayments. Built with responsive design principles, it provides general information and allows users to input loan amount, interest rate, and term to generate accurate monthly payment figures, enhancing financial planning and decision-making.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS",
+          "country": "Jamaica"
+        }
+      },
+      {
+        "thumbUrl": "/images/preelabs1.png",
         "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "subTitle": "Web Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Website Design",
+          "description": "Simple Website design for Preelabs website to be build on the Wix platform",
           "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
+          "platform": "Figma",
+          "country": "Jamaica"
+               }
       },
       {
-        "thumbUrl": "/images/popup-project-2.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "thumbUrl": "/images/dashboardexample.png",
+        "title": "Marketing Dashboard",
+        "subTitle": "Data Analytics",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "Sample Marketing Dashboard",
+          "description": "This Ecommerce Marketing Dashboard provides a comprehensive overview of key performance indicators (KPIs) such as sales trends, customer demographics, and campaign effectiveness. Utilizing interactive charts and graphs, it enables marketers to make data-driven decisions to optimize strategies and improve ROI.",
           "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-3.jpg",
-        "title": "Dashboard Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-4.jpg",
-        "title": "Mobile App Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-5.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/popup-project-6.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
+          "platform": "Power BI",
           "url": "www.example.com"
         }
       }
@@ -166,28 +132,28 @@
       {
         "imgUrl": "/images/service-01.jpg",
         "title": "Website Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I design clean, modern, and responsive websites that align with your brand and engage your audience effectively.",
         "icon": "bi:brush-fill",
         "ratings": 5
       },
       {
         "imgUrl": "/images/service-02.jpg",
         "title": "Website Development",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I build fast, secure, and scalable websites using modern frameworks and best practices for performance and reliability.",
         "icon": "bi:code-square",
-        "ratings": 4.5
+        "ratings": 5
       },
       {
         "imgUrl": "/images/service-03.jpg",
         "title": "Data Analytics",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I uncover insights from data to help businesses understand patterns, improve strategy, and make informed decisions.",
         "icon": "bi:speedometer2",
         "ratings": 5
       },
       {
         "imgUrl": "/images/service-04.jpg",
         "title": "Data Visualization",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I create clear, interactive visuals and dashboards that make complex information easy to explore and share.",
         "icon": "bi:palette",
         "ratings": 5
       }
